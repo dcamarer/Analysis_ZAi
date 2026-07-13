@@ -1,0 +1,27 @@
+- We have the following samples:
+
+mc16_13TeV.361107.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Zmumu.deriv.DAOD_STDM4.e3601_s3126_r*_p4239               ---> Nothing
+mc16_13TeV.361106.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Zee.deriv.DAOD_STDM4.e3601_s3126_r*_p4239                 ---> Nothing
+mc16_13TeV.361108.PowhegPythia8EvtGen_AZNLOCTEQ6L1_Ztautau.deriv.DAOD_STDM4.e3601_s3126_r*_p4512             ---> Nothing
+
+mc16_13TeV.410470.PhPy8EG_A14_ttbar_hdamp258p75_nonallhad.deriv.DAOD_STDM4.e6337_s3126_r*_p4512              ---> Nothing
+mc16_13TeV.410644.PowhegPythia8EvtGen_A14_singletop_schan_lept_top.deriv.DAOD_STDM4.e6527_s3126_r*_p4512     ---> Nothing
+mc16_13TeV.410645.PowhegPythia8EvtGen_A14_singletop_schan_lept_antitop.deriv.DAOD_STDM4.e6527_s3126_r*_p4512 ---> Nothing
+mc16_13TeV.410646.PowhegPythia8EvtGen_A14_Wt_DR_inclusive_top.deriv.DAOD_STDM4.e6552_s3126_r*_p4512          ---> Nothing
+mc16_13TeV.410647.PowhegPythia8EvtGen_A14_Wt_DR_inclusive_antitop.deriv.DAOD_STDM4.e6552_s3126_r9*_p4512     ---> Nothing
+mc16_13TeV.410658.PhPy8EG_A14_tchan_BW50_lept_top.deriv.DAOD_STDM4.e6671_s3126_r*_p4512                      ---> Nothing
+mc16_13TeV.410659.PhPy8EG_A14_tchan_BW50_lept_antitop.deriv.DAOD_STDM4.e6671_s3126_r*_p4512                  ---> Nothing
+
+mc16_13TeV.361600.PowhegPy8EG_CT10nloME_AZNLOCTEQ6L1_WWlvlv.deriv.DAOD_STDM4.e4616_s3126_r*_p4512            ---> Nothing
+mc16_13TeV.361601.PowhegPy8EG_CT10nloME_AZNLOCTEQ6L1_WZlvll_mll4.deriv.DAOD_STDM4.e4475_s3126_r*_p4512       ---> Nothing
+mc16_13TeV.361602.PowhegPy8EG_CT10nloME_AZNLOCTEQ6L1_WZlvvv_mll4.deriv.DAOD_STDM4.e4054_s3126_r*_p4512       ---> Nothing
+mc16_13TeV.361603.PowhegPy8EG_CT10nloME_AZNLOCTEQ6L1_ZZllll_mll4.deriv.DAOD_STDM4.e4475_s3126_r*_p4512       ---> Nothing
+mc16_13TeV.361604.PowhegPy8EG_CT10nloME_AZNLOCTEQ6L1_ZZvvll_mll4.deriv.DAOD_STDM4.e4475_s3126_r*_p4512       ---> Nothing
+mc16_13TeV.361606.PowhegPy8EG_CT10nloME_AZNLOCTEQ6L1_WWlvqq.deriv.DAOD_STDM4.e4711_s3126_r*_p4512            ---> Nothing
+mc16_13TeV.361607.PowhegPy8EG_CT10nloME_AZNLOCTEQ6L1_WZqqll_mll20.deriv.DAOD_STDM4.e4711_s3126_r*_p4512      ---> Nothing
+mc16_13TeV.361609.PowhegPy8EG_CT10nloME_AZNLOCTEQ6L1_WZlvqq_mqq20.deriv.DAOD_STDM4.e4711_s3126_r*_p4512      ---> Nothing
+mc16_13TeV.361610.PowhegPy8EG_CT10nloME_AZNLOCTEQ6L1_ZZqqll_mqq20mll20.deriv.DAOD_STDM4.e4711_s3126_r*_p4512 ---> ⚠️ 1 dataset
+
+///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// /////
+
+mc16_13TeV.361610.PowhegPy8EG_CT10nloME_AZNLOCTEQ6L1_ZZqqll_mqq20mll20.deriv.DAOD_STDM4.e4711_s3126_r10201_r10210_p4512_tid40784744_00
