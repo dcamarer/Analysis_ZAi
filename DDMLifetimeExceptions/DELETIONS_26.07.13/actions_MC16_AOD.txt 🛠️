@@ -1,0 +1,13 @@
+- We look for the strings:
+
+Pythia8EvtGen_A14NNPDF23LO_perf          - DSIDs 423300-423303                 -> Don't request. These are the *JF* low pT ones that we can remove!
+Pythia8EvtGen_A14NNPDF23LO_gammajet      - DSIDs 423104-423112                 -> Request all
+Py8_gammajet                             - DSIDs 800663-800671 + 800677-800683 -> Request all with pt>140 GeV (800663/800677)
+Sherpa_CT10_SinglePhotonPt               - DSIDs 361045-361062                 -> -
+Sherpa_222_NNPDF30NNLO_SinglePhoton      - DSIDs 364544-364547                 -> Request all with pt>140 GeV (364544)
+H7EG_gammajet_MMHT2014lo                 - DSIDs 830047-830052 + 830057-830062 -> -
+MGPy8_LO_gammajjEW_DipoleRecoil          - DSIDs 500324                        -> -
+H7_721_gammajjEW                         - DSIDs 830008                        -> -
+Sh_2211_gamma2jets_pTy140_Min_N_TChannel - DSIDs 700442                        -> Request all
+
+///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// /////

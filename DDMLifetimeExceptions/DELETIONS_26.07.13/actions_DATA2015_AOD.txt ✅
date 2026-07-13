@@ -1,0 +1,6 @@
+AOD file: data15_13TeV.periodAllYear.physics_Main.PhysCont.AOD.repro21_v02
+
+- Delete those that are not physics_Main
+- Delete those that are f***
+- Delete those that have different r-tags + p-tags compared to our list
+- No datasets survive these criteria

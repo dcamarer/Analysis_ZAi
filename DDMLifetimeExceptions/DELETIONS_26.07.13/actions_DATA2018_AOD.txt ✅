@@ -1,0 +1,7 @@
+2018 B, C, D, F, I, K, L, M, O, Q
+AOD file: data18_13TeV.period*.physics_Main.PhysCont.AOD.t0pro22_v01
+
+- Delete those that are not physics_Main
+- Delete those that are not contained in the GRL
+- Delete those that have different f-tags + m-tags compared to our list
+- No datasets survive these criteria

@@ -1,0 +1,13 @@
+- We have the following samples:
+
+QCD Sherpa LO      - p5522 - DSIDs 361045-361062                 -> Nothing listed
+QCD Sherpa NLO     - p5522 - DSIDs 364544-364547                 -> Nothing listed
+EW Madgraph+Pythia - p5522 - DSIDs 500324                        -> Nothing listed
+EW VBFNLO+Herwig   - p5522 - DSIDs 830008                        -> Nothing listed
+EW Sherpa LO       - p5522 - DSIDs 700442                        -> Nothing listed
+QCD Pythia 8.1     - p4191 - DSIDs 423104-423112                 -> Request all ⚠️
+QCD Pythia 8.2     - p4191 - DSIDs 800663-800671 + 800677-800683 -> Request all ⚠️
+QCD Herwig7        - p4191 - DSIDs 830047-830052 + 830057-830062 -> Request all ⚠️
+
+///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// ///// /////
+
