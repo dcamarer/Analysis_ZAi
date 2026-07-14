@@ -1,4 +1,4 @@
-GRL: 
+GRL: /cvmfs/atlas.cern.ch/repo/sw/database/GroupData/GoodRunsLists/data17_13TeV/20180619/data17_13TeV.periodAllYear_DetStatus-v99-pro22-01_Unknown_PHYS_StandardGRL_All_Good_25ns_Triggerno17e33prim.xml
 Total: 186 runs
 
 periodB: (32 here)
