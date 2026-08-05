@@ -1,0 +1,10 @@
+user.dcamarer.data18_13TeV.periodB.physics_Main.NTP_MM.grp23_v01_p4238_v30_outTree_MM_RecoZAi.root
+user.dcamarer.data18_13TeV.periodC.physics_Main.NTP_MM.grp23_v01_p4238_v30_outTree_MM_RecoZAi.root
+user.dcamarer.data18_13TeV.periodD.physics_Main.NTP_MM.grp23_v01_p4238_v30_outTree_MM_RecoZAi.root
+user.dcamarer.data18_13TeV.periodF.physics_Main.NTP_MM.grp23_v01_p4238_v30_outTree_MM_RecoZAi.root
+user.dcamarer.data18_13TeV.periodI.physics_Main.NTP_MM.grp23_v01_p4238_v30_outTree_MM_RecoZAi.root
+user.dcamarer.data18_13TeV.periodK.physics_Main.NTP_MM.grp23_v01_p4238_v30_outTree_MM_RecoZAi.root
+user.dcamarer.data18_13TeV.periodL.physics_Main.NTP_MM.grp23_v01_p4238_v30_outTree_MM_RecoZAi.root
+user.dcamarer.data18_13TeV.periodM.physics_Main.NTP_MM.grp23_v01_p4238_v30_outTree_MM_RecoZAi.root
+user.dcamarer.data18_13TeV.periodO.physics_Main.NTP_MM.grp23_v01_p4238_v30_outTree_MM_RecoZAi.root
+user.dcamarer.data18_13TeV.periodQ.physics_Main.NTP_MM.grp23_v01_p4238_v30_outTree_MM_RecoZAi.root

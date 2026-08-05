@@ -1,0 +1,6 @@
+user.avallier:user.avallier.data15_13TeV.periodD.physics_Main.NTP_CC.grp23_v01_p4238_v26_outTree_CC_RecoZAi.root
+user.avallier:user.avallier.data15_13TeV.periodE.physics_Main.NTP_CC.grp23_v01_p4238_v26_outTree_CC_RecoZAi.root
+user.avallier:user.avallier.data15_13TeV.periodF.physics_Main.NTP_CC.grp23_v01_p4238_v26_outTree_CC_RecoZAi.root
+user.avallier:user.avallier.data15_13TeV.periodG.physics_Main.NTP_CC.grp23_v01_p4238_v26_outTree_CC_RecoZAi.root
+user.avallier:user.avallier.data15_13TeV.periodH.physics_Main.NTP_CC.grp23_v01_p4238_v26_outTree_CC_RecoZAi.root
+user.avallier:user.avallier.data15_13TeV.periodJ.physics_Main.NTP_CC.grp23_v01_p4238_v26_outTree_CC_RecoZAi.root
