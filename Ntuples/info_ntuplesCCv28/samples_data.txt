@@ -1,0 +1,25 @@
+# Target sites: CERN-PROD_PHYS-SM, or CERN-PROD_LOCALGROUPDISK
+
+## Year 2015 (6)
+user.dcamarer.data15_13TeV.periodJ.physics_Main.NTP_CC.grp23_v02_p4238_v28
+user.dcamarer.data15_13TeV.periodH.physics_Main.NTP_CC.grp23_v01_p4238_v28
+user.dcamarer.data15_13TeV.periodG.physics_Main.NTP_CC.grp23_v01_p4238_v28
+user.dcamarer.data15_13TeV.periodF.physics_Main.NTP_CC.grp23_v01_p4238_v28
+user.dcamarer.data15_13TeV.periodE.physics_Main.NTP_CC.grp23_v01_p4238_v28
+user.dcamarer.data15_13TeV.periodD.physics_Main.NTP_CC.grp23_v01_p4238_v28
+
+## Year 2016 (10)
+user.dcamarer.data16_13TeV.periodL.physics_Main.NTP_CC.grp23_v01_p4238_v28
+user.dcamarer.data16_13TeV.periodK.physics_Main.NTP_CC.grp23_v01_p4238_v28
+user.dcamarer.data16_13TeV.periodI.physics_Main.NTP_CC.grp23_v01_p4238_v28
+user.dcamarer.data16_13TeV.periodG.physics_Main.NTP_CC.grp23_v01_p4238_v28
+user.dcamarer.data16_13TeV.periodF.physics_Main.NTP_CC.grp23_v01_p4238_v28
+user.dcamarer.data16_13TeV.periodE.physics_Main.NTP_CC.grp23_v01_p4238_v28
+user.dcamarer.data16_13TeV.periodD.physics_Main.NTP_CC.grp23_v01_p4238_v28
+user.dcamarer.data16_13TeV.periodC.physics_Main.NTP_CC.grp23_v01_p4238_v28
+user.dcamarer.data16_13TeV.periodB.physics_Main.NTP_CC.grp23_v01_p4238_v28
+user.dcamarer.data16_13TeV.periodA.physics_Main.NTP_CC.grp23_v01_p4238_v28
+
+## Year 2017 (10)
+
+## Year 2018 (10)
