@@ -20,11 +20,11 @@
 ✅ user.dcamarer.mc16_13TeV.410644.PP8EG_A14_singletop_schan_lept_top.NTP_CC.e6527_s3126_r9364_p4512_v28_outTree_CC_RecoZAi.root
 ✅ user.dcamarer.mc16_13TeV.410470.PP8EG_A14_ttbar_nonallhad.NTP_CC.e6337_s3126_r9364_p4512_v28_outTree_CC_RecoZAi.root
 ✅ user.dcamarer.mc16_13TeV.361108.PP8EG_AZ_Ztautau.NTP_CC.e3601_s3126_r9364_p4512_v28_outTree_CC_RecoZAi.root
-✅ user.dcamarer.mc16_13TeV.361106.PP8EG_AZ_Zee.NTP_CC.e3601_s3126_r9364_p4239_v28_outTree_CC_RecoZAi.root
-✅ user.dcamarer.mc16_13TeV.361106.PP8EG_AZ_Zee.NTP_CC.e3601_s3126_r9364_p4239_v28_outTree_ZAi.root
+✅ user.dcamarer.mc16_13TeV.361106.PP8EG_AZ_Zee.NTP_CC.e3601_s3126_r9364_p4239_v28_retry1_outTree_CC_RecoZAi.root
+✅ user.dcamarer.mc16_13TeV.361106.PP8EG_AZ_Zee.NTP_CC.e3601_s3126_r9364_p4239_v28_retry1_outTree_ZAi.root
 
 ### Systematics (1)
-✅ user.dcamarer.mc16_13TeV.361106.PP8EG_AZ_Zee.NTP_CC.e3601_s3126_r9364_p4239_v28.1_outTree_CC_RecoZAi.root
+✅ user.dcamarer.mc16_13TeV.361106.PP8EG_AZ_Zee.NTP_CC.e3601_s3126_r9364_p4239_v28.1_retry1_outTree_CC_RecoZAi.root
 
 ## MC16d
 

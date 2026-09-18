@@ -3,7 +3,6 @@
 ## MC16a
 
 ### Nominal samples (18+1)
-#### Note: I have accepted a 95% stats for the 410658 MMv31 sample
 ✅ user.dcamarer.mc16_13TeV.361610.PP8EG_CT10_AZ_ZZqqll_mqq20mll20.NTP_MM.e4711_s3126_r9364_p4512_v31_outTree_MM_RecoZAi.root
 ✅ user.dcamarer.mc16_13TeV.361609.PP8EG_CT10_AZ_WZlvqq_mqq20.NTP_MM.e4711_s3126_r9364_p4512_v31_outTree_MM_RecoZAi.root
 ✅ user.dcamarer.mc16_13TeV.361607.PP8EG_CT10_AZ_WZqqll_mll20.NTP_MM.e4711_s3126_r9364_p4512_v31_outTree_MM_RecoZAi.root
