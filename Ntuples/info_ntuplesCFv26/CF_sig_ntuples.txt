@@ -1,0 +1,3 @@
+user.lbayer.mc16_13TeV.361106.PP8EG_AZ_Zee.NTP_CF.e3601_s3126_r9364_p4239_v26_outTree_CF_RecoZAi.root
+user.lbayer.mc16_13TeV.361106.PP8EG_AZ_Zee.NTP_CF.e3601_s3126_r9364_p4239_v26_outTree_ZAi.root
+user.lbayer.mc16_13TeV.361106.PP8EG_AZ_Zee.NTP_CF.e3601_s3126_r9364_p4239_v26.1_outTree_CF_RecoZAi.root
